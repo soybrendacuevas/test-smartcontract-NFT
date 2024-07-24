@@ -1,4 +1,4 @@
-#Compilar y Desplegar el Contrato
+# Compilar y Desplegar el Contrato
 ### Compilar el Contrato
 -  En Remix, ve a la pestaña "Solidity Compiler" (ícono del compás).
 - Selecciona la versión del compilador 0.8.0 y haz clic en "Compile NFTContract.sol".
